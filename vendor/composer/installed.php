@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'gabrielsramosss/ecommerce',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'gabrielsramosss/trabalhopuc',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '8696f2d0be35b97a85ba36a8ed1d2d4342bc28e7',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'gabrielsramosss/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'gabrielsramosss/trabalhopuc' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '8696f2d0be35b97a85ba36a8ed1d2d4342bc28e7',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
