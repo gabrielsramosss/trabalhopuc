@@ -1,0 +1,1 @@
+<?php if(!class_exists('Rain\Tpl')){exit;}?><li><a href="/categories/2">Cachorros</a></li><li><a href="/categories/3">Gatos</a></li><li><a href="/categories/4">Pássaros</a></li><li><a href="/categories/5">Tartaruga</a></li>
